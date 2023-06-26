@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7d884553.css","mappings":"AAMA,UACE,YAAa,CACf,kBAAmB,CACnB,QAAS","sources":["styles/App.scss"],"sourcesContent":["/* Dame estilo! */\n\n/*\n  Nota: ningún árbol fue talado o dañado\n  para la fabricación de estas hojas de estilo.\n*/\n.fieldset {\n  display: flex;\nflex-direction: row;\ngap: 10px;\n}"],"names":[],"sourceRoot":""}
